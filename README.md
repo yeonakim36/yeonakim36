@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### Tech Stack⚒️
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> <img src="https://img.shields.io/badge/java-3766AB?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/javaScript-f59b25?style=flat-square&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/jquery-f8a980?style=flat-square&logo=jquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/jquery-f8a980?style=flat-square&logo=jquery&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/spring-6db33f?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-0061af?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-2a4c72?style=flat-square&logo=c&logoColor=white"/>
