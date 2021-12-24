@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Yeona
 
-### Who Am I👩🏻‍💻
+### Who Am I 🤔
 - 🎓 DDWU Computer Science 18(18.03.~22.02)
 - 💻 DesignStudioA Intern (20.12.01~)
 
