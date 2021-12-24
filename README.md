@@ -16,3 +16,17 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=ddd6f3&height=300&section=header&text=YeonaKim's%20git💻&fontSize=90)
+
+# Yeona
+
+### Who Am I👩🏻‍💻
+- 🎓 DDWU Computer Science 18(18.03.~22.02)
+- 💻 DesignStudioA Intern (20.12.01~)
+
+### My Projects📂
+- kukrule.com
+- artdive.co.kr
+
+### Tech Stack⚒️
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
