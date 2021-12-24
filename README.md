@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Slice&color=ddd6f3&height=300&section=header&text=YeonaKim's%20git💻&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=ddd6f3&height=300&section=header&text=YeonaKim's%20git💻&fontSize=80)
 
 # Yeona
 
