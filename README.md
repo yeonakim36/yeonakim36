@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/mysql-0061af?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-2a4c72?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5-e34f26?style=flat-square&logo=Html&logoColor=white"/>
-<img src="https://img.shields.io/badge/css-e34f26?style=flat-square&logo=CSS&logoColor=white"/>
+<img src="https://img.shields.io/badge/css-f43059?style=flat-square&logo=css3&logoColor=white"/>
 
 
 
