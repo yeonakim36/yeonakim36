@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 - 💻 DesignStudioA Intern (20.12.01~)
 
 ### My Projects📂
-- <a href="kukrule.com">설문컨텐츠 플랫폼</a>
-- <a href="artdive.co.kr">빅데이터 기반 예술 융복합 AI 서비스 플랫폼</a>
+- <a href="kukrule.com">설문컨텐츠 플랫폼 'Kukrule'</a>
+- <a href="artdive.co.kr">빅데이터 기반 예술 융복합 AI 서비스 플랫폼 'ArtDive'</a>
 
 ### Tech Stack⚒️
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> <img src="https://img.shields.io/badge/java-3766AB?style=flat-square&logo=java&logoColor=white"/>
