@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### Who Am I 🤔
 - 🎓 DDWU Computer Science 18(18.03~22.02)
 - 💻 DesignStudioA Intern (20.12.01~22.01.12)
-- 💻 Dongkuk Steel Group_DongkukSystems IRIS Team (22.01.17~) 
+- 💻 Dongkuk Steel Group_DongkukSystems IRIS Team Intern(22.01.17~22.04.15) 
 
 ### My blog 📒
 - <a href="https://blog.naver.com/yeona0306"> My blog </a>
@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 - 설문컨텐츠 플랫폼 'Kukrule' 👉🏻 kukrule.com
 - 빅데이터 기반 예술 융복합 AI 서비스 플랫폼 'ArtDive' 👉🏻 artdive.co.kr
 - DesignStudioA HomePage(En)
+- 동국제강그룹 차세대 그룹웨어 구축 프로젝트 전자결재 담당 (SI/SM)
 
 ### Tech Stack⚒️
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> <img src="https://img.shields.io/badge/java-3766AB?style=flat-square&logo=java&logoColor=white"/>
