@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### Who Am I 🤔
 - 🎓 DDWU Computer Science 18(18.03~22.02)
 - 💻 DesignStudioA Intern (20.12.01~22.01.12)
-- 💻 Dongkuk Steel Group_DongkukSystems IRIS Team Intern(22.01.17~22.04.15) 
+- 💻 Dongkuk Steel Group_DongkukSystems IRIS Team(22.01.17~22.04.15) 
 
 ### My blog 📒
 - <a href="https://blog.naver.com/yeona0306"> My blog </a>
