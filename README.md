@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C-2a4c72?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5-e34f26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css-f43059?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/php-004088?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/python-0854C1?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/php-004088?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-0854C1?style=flat-square&logo=python&logoColor=white"/>
 
 
 
